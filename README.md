@@ -34,11 +34,11 @@ If this code is helpful for your research, please cite the following paper:
 
 <p>
 @article{AIParsing2022,<br>
-     title={AIParsing: Anchor-Free Instance-Level Human Parsing},<br>
-     author={Sanyi Zhang, Xiaochun Cao, Guo-jun Qi, Zhanjie Song, Jie Zhou},<br>
-     journal={IEEE Transactions on Image Processing (TIP)},<br>
-     year={2022},<br>
-     volume={31},<br>
-     pages={5599-5612}<br> 
+&emsp;  title={AIParsing: Anchor-Free Instance-Level Human Parsing},<br>
+&emsp;   author={Sanyi Zhang, Xiaochun Cao, Guo-jun Qi, Zhanjie Song, Jie Zhou},<br>
+&emsp;       journal={IEEE Transactions on Image Processing (TIP)},<br>
+&emsp;       year={2022},<br>
+&emsp;       volume={31},<br>
+&emsp;       pages={5599-5612}<br> 
 }
   </p>
