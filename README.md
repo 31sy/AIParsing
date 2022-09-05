@@ -1,5 +1,5 @@
 # AIParsing
-This respository includes a PyTorch implementation of PGECNet. 
+This respository includes a PyTorch implementation of the TIP2022 paper AIParsing:Anchor-Free Instance-Level Human Parsing. 
 
 ## Requirements:<br>
 python 3.7<br>
@@ -34,11 +34,11 @@ If this code is helpful for your research, please cite the following paper:
 
 <p>
 @article{AIParsing2022,<br>
-  title={AIParsing: Anchor-Free Instance-Level Human Parsing},<br>
-  author={Sanyi Zhang, Xiaochun Cao, Guo-jun Qi, Zhanjie Song, Jie Zhou},<br>
-  journal={IEEE Transactions on Image Processing (TIP)},<br>
-  year={2022},<br>
-  volume={31},<br>
-  pages={5599-5612}<br> 
+     title={AIParsing: Anchor-Free Instance-Level Human Parsing},<br>
+     author={Sanyi Zhang, Xiaochun Cao, Guo-jun Qi, Zhanjie Song, Jie Zhou},<br>
+     journal={IEEE Transactions on Image Processing (TIP)},<br>
+     year={2022},<br>
+     volume={31},<br>
+     pages={5599-5612}<br> 
 }
   </p>
