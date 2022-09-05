@@ -52,4 +52,4 @@ SOLVER:
   MAX_ITER: 540000
   IMS_PER_BATCH: 4
   WARMUP_METHOD: "constant"
-OUTPUT_DIR : 'checkpoints/CIHP_R50_serialGE_75epoch_parsingiou_iouloss'
+OUTPUT_DIR : 'checkpoints/CIHP_R50_75epoch'
