@@ -6,13 +6,15 @@ python 3.7<br>
 PyTorch 1.7.1<br>
 cuda 10.1 <br>
 
+The detail environment can be find in AIParsing_env.yaml.
+
 ## Compiling<br>
 
 cd models<br>
 sh make.sh<br>
 
 cd ..<br>
-python build.py build develop<br>
+python setup.py build develop<br>
 
 
 ## Dataset and pretrained model<br>
