@@ -20,7 +20,7 @@ python setup.py build develop<br>
 ## Dataset and pretrained model<br>
 Plesae download [CIHP](https://drive.google.com/open?id=1OLBd23ufm6CU8CZmLEYMdF-x2b8mRgxV) dataset<br>
 
-[pretrained model (with R50 backbone) on the CIHP dataset](https://tjueducn-my.sharepoint.com/:f:/g/personal/zhangsanyi_tju_edu_cn/EgDRl0eE47lAkMzJxNEL-iABrlsl30zvdj2Fw4zfH1HhAA?e=YHslNC) (MM:r50cihp)<br>
+[pretrained model on the CIHP and LV-MHP datasets](https://tjueducn-my.sharepoint.com/:f:/g/personal/zhangsanyi_tju_edu_cn/EhLaPw8f2nBAsosG1FaOZ4MBkmcQkTy61SrvbOZ7jR9xHA?e=wbbmgq) (MM:aiparsing)<br>
 
 
 ## Evaluation<br>
