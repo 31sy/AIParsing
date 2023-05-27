@@ -12,10 +12,10 @@ The detail environment can be find in AIParsing_env.yaml.
 
 Apex install:
 
-git clone https://github.com/NVIDIA/apex
-cd apex
-pip install -v --disable-pip-version-check --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./
-or python setup.py build develop
+git clone https://github.com/NVIDIA/apex <br>
+cd apex <br>
+pip install -v --disable-pip-version-check --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./ <br>
+or python setup.py build develop <br>
 
 cd models<br>
 sh make.sh<br>
